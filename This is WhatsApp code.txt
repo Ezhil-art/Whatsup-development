@@ -1,0 +1,9 @@
+This is WhatsApp code
+ Author : Ezhilan
+
+1.profile page set up
+2.chat screen code
+3.last seen code
+4.attachments ( images , audio , video) code
+
+Note : everything is an assumption as code to learn github
