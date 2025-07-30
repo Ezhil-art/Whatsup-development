@@ -7,3 +7,5 @@ This is WhatsApp code
 4.attachments ( images , audio , video) code
 
 Note : everything is an assumption as code to learn github
+
+Hiding the last seen
